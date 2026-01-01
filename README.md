@@ -37,4 +37,3 @@ The goal was to build a volatility-proof portfolio model by understanding correl
 3.  Run the script to fetch live data from Yahoo Finance API.
 
 ---
-*Created by Sai Krishna Reddy | BBA Data Analytics*
