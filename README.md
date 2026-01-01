@@ -27,7 +27,8 @@ The goal was to build a volatility-proof portfolio model by understanding correl
 * A diversified mix (70% Stocks / 30% Gold) offered the most stable growth trajectory.
 
 ### 📉 Visualizations
-*(Upload the screenshots of your "Growth Chart" and "Heatmap" here in your repo)*
+*<img width="1005" height="529" alt="image" src="https://github.com/user-attachments/assets/a598c9c4-fda7-4a03-b342-50b18feaa081" />
+*
 
 ### 🚀 How to Run
 1.  Clone the repository.
