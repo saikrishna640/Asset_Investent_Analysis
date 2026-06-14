@@ -19,11 +19,11 @@ The goal was to build a volatility-proof portfolio model by understanding correl
 **1. Correlation Matrix (The "Safe Haven" Test)**
 * **Hypothesis:** Does Bitcoin act as "Digital Gold" during market crashes?
 * **Finding:** My analysis revealed a high positive correlation between **Bitcoin and Nasdaq**, suggesting Bitcoin behaves more like a tech stock than a hedge.
-* **The Hedge:** **Gold** showed a correlation of **[Insert Correlation Number, e.g., 0.12]** with Indian Equities, validating it as the superior portfolio diversifier.
+* **The Hedge:** **Gold** showed a correlation of **0.05** with Indian Equities, validating it as the superior portfolio diversifier.
 
 **2. Risk vs. Reward (Sharpe Ratio)**
 * Calculated the **Sharpe Ratio** to measure risk-adjusted returns.
-* While Bitcoin offered the highest raw return, it also carried a **Max Drawdown of [Insert Max Crash %]**.
+* While Bitcoin offered the highest raw return, it also carried a **Max Drawdown of 76.63**.
 * A diversified mix (70% Stocks / 30% Gold) offered the most stable growth trajectory.
 
 ### 📉 Visualizations
